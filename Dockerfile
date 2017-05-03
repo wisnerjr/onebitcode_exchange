@@ -22,5 +22,5 @@ RUN bundle install
 #Copia arquivos do projeto para pasta do container
 COPY . .
 
-#Inicializa e roda o servidor -> [plataforma, comando_a_executar, parametro, endereco_ip]
-CMD ["rails","server","-b","0.0.0.0"]
+#Inicializa e roda o servidor -> [plataforma, comando_a_executar, parametro, endereco_ip] ou através do puma.rb
+CMD puma -C config/puma.rb
