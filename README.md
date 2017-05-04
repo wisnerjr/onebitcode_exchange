@@ -1,9 +1,7 @@
 ## Super Currency Exchanger
 
-----
 **Super Currency Exchanger** is an app to easily convert currencies!
 
-----
 Link: [Super Currency Exchanger]
 (http://super-currency-exchanger.herokuapp.com/)
 
