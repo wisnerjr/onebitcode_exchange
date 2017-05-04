@@ -12,6 +12,6 @@ This project was designed as part of the [Bootcamp 2 One Bit Code - Zerando o Ra
 ----
 **Soon™ new features and design will be published!**
 
-##changelog
+## changelog
 
 * 05-May-2017 first version
