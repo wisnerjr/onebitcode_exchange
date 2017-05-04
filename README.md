@@ -1,24 +1,20 @@
-# README
+## Super Currency Exchanger
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+----
+**Super Currency Exchanger** is an app to easily convert currencies!
 
-Things you may want to cover:
+----
+Link: [Super Currency Exchanger]
+(http://super-currency-exchanger.herokuapp.com/)
 
-* Ruby version
+---
+![Super Currency Exchanger Interface](https://cloud.githubusercontent.com/assets/13546789/25704906/b78c2ada-30b1-11e7-9eaf-ad2cfc6d8d50.JPG)
 
-* System dependencies
+This project was designed as part of the [Bootcamp 2 One Bit Code - Zerando o Rails!] (http://onebitcode.com/cursos/bootcamp-one-bit-code-2/) through mentoring of Leonardo Scorza.
 
-* Configuration
+----
+**Soon™ new features and design will be published!**
 
-* Database creation
+##changelog
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 05-May-2017 first version
