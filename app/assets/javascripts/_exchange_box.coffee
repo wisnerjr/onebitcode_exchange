@@ -1,5 +1,5 @@
 $(document).ready ->
-  $('#quantity').change -> 
+  $('#quantity').keyup -> 
     if $('form').attr('action') == '/exchange'
       $.ajax '/exchange',
           type: 'POST'
